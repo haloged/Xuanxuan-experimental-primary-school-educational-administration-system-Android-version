@@ -3,7 +3,7 @@ const types = {
     type: "COCO_TOOLS_WIDGET",
     icon: "https://ocean.codemao.cn/appcraft/resource/icon/%E5%9F%BA%E7%A1%80/%E8%B0%83%E8%8A%82.svg",
     title: "CoCo工具箱",
-    version: "1.0.0",
+    version: "1.0.1",
     isGlobalWidget: true,
     properties: [],
     methods: [],
